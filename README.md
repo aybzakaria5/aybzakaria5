@@ -13,8 +13,6 @@ you can find me on :
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aybzakaria5&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-![Sneek Gusano](https://github.com/bneayoub/bneayoub/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Zack5ayb)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
