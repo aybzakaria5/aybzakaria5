@@ -13,6 +13,13 @@ you can find me on :
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aybzakaria5&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
+## 🐍 Snake Game
+
+<p align="center">
+  <img src="https://github.com/aybzakaria5/aybzakaria5/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Zack5ayb)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
