@@ -1,5 +1,7 @@
 
 # Hi there! 👋 I'm Ayoub Zakarya
+<img src="/images/literalyme.jpg" border="0">
+
 Welcome to my GitHub profile! I'm passionate about software development  I love solving complex problems and exploring new technologies. 
 
 ## 🌐 Socials:
