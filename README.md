@@ -31,5 +31,5 @@ you can find me on :
 ---
 [![](https://visitcount.itsvg.in/api?id=aybzakaria5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="/images/learning.jpg" border="0">
+<img src="/images/learning.jpg" border="5">
 
