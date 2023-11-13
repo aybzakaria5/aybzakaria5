@@ -1,10 +1,10 @@
 
-<h2 align="center">Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<h2 align="center">Hello there 👋<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
 <!-- Animation Typing -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Ayoub+Zakaria.;I'm+a+Software+Devolpement+Passionate;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Ayoub+Zakaria.;I'm+a+Software+Devolpement+Enthusisast;"></a>
 </p>
 
 <!-- Animation Typing: END -->
@@ -42,5 +42,3 @@ you can find me on :
 <div align="center">
   <img src="/images/learning.jpg" alt="Learning" style="max-width:100%; height:auto;">
 </div>
-
-
